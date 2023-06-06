@@ -2,8 +2,7 @@
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  
-    <h3><b>Portfolio: Finish mobile version</b></h3>
+    <h3><b>Mobile_first Project</b></h3>
 
 </div>
 
@@ -170,7 +169,7 @@ Give a ⭐️ if you like this project!
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## 🙏 Acknowledgments <a name ="acknowledgements"></a>
 
 
 I am greateful for microvese community!
@@ -183,7 +182,7 @@ I am greateful for microvese community!
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
 
-- **[What is Mobile-first?]**
+- What is Mobile-first?
 
   - The objective is to prioritize the mobile user experience by ensuring that CSS is designed to cater to smaller devices without the need to sift through styles intended for desktop devices.  
 
@@ -191,7 +190,7 @@ I am greateful for microvese community!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
-## 📝 License <a name="license"></a>
+## 📝License<a name ="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
