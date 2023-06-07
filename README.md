@@ -14,7 +14,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -30,7 +29,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Portfolio: finish mobile version <a name="about-project"></a>
+# 📖 Portfolio: finish mobile version <a name="about-project"></a> 
 
 > This is the first html and css project of the first block in which linters are integrated.
 > This project is part of my Microverse exercises, where we learn how to set a up a new repository in a professional manners.
@@ -52,7 +51,6 @@ Portfolio: finish mobile version is a project where no complex coding is require
 </details>
 
 
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
@@ -64,13 +62,6 @@ Portfolio: finish mobile version is a project where no complex coding is require
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link (not yet deployed)](#)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
