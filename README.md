@@ -146,7 +146,7 @@ To run the project, open the project by launching the Live Server plugging in vi
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Tek2022/Finish-mobile_version/issues).
+Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
