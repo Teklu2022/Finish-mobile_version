@@ -527,3 +527,110 @@ section .card-description {
   color: #396df2;
   border: 0.0625rem solid #6070ff;
 }
+
+/* footer section */
+footer {
+  background-color: #fff;
+}
+
+.background-main {
+  background-color: #6070ff;
+  border-top-left-radius: 70px;
+}
+
+.background-image {
+  background: url(./images/contact\ form\ background\ shapes.svg) no-repeat;
+  background-position: top 21px right 0;
+  background-attachment: scroll;
+  background-size: contain;
+}
+
+.setup-elements {
+  height: auto;
+  width: 100%;
+  background-position: right;
+  padding-top: 7.1875rem;
+  padding-bottom: 3rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  text-align: center;
+}
+
+.form-contact {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 20px;
+}
+
+.form-contact > * {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  color: #172b4d;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 16px;
+  background: #fff;
+  border: 1px solid #cfd8dc;
+  border-radius: 8px;
+}
+
+.form-contact > *::placeholder {
+  color: #b3bac5;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+}
+
+.head-contact {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.setup-elements > p {
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  text-align: center;
+  width: 80%;
+}
+
+.contact-form textarea {
+  resize: none;
+}
+
+.btn-submit {
+  border-radius: 10px;
+  padding: 15px 10px;
+  font-size: 17px;
+  background: white;
+  color: #396df2;
+  font-weight: 500;
+  border-color: white;
+  align-self: start;
+  margin-top: 5px;
+}
+
+.btn-submit:hover {
+  background-color: #7f8cff;
+  color: white;
+  border: none;
+  outline: none;
+}
